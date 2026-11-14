@@ -1,7 +1,7 @@
 import { FadeIn } from "./FadeIn";
 import { Magnet } from "./Magnet";
 import { ContactButton } from "./ContactButton";
-import aminePortrait from "@/assets/Atharv.png";
+import aminePortrait from "@/assets/atharv.png";
 
 const NAV_LINKS = [
   "About",
