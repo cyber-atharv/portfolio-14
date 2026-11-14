@@ -36,7 +36,7 @@ export function FooterSection() {
         <FadeIn delay={0.2} y={30}>
           <div className="flex justify-center mt-12">
             <a
-              href="mailto:aminehamzaoui1925@gmail.com"
+              href="mailto:atharvhogade12@gmail.com"
               className="
                 px-10 py-5
                 rounded-full
@@ -62,7 +62,7 @@ export function FooterSection() {
         <FadeIn delay={0.3} y={20}>
           <div className="mt-14 flex justify-center">
             <a
-              href="mailto:aminehamzaoui1925@gmail.com"
+              href="mailto:atharvhogade12@gmail.com"
               className="
                 flex items-center gap-3
                 text-white/70
@@ -72,7 +72,7 @@ export function FooterSection() {
             >
               <FaEnvelope size={20} />
               <span className="text-lg">
-                aminehamzaoui1925@gmail.com
+                atharvhogade12@gmail.com
               </span>
             </a>
           </div>
@@ -82,7 +82,7 @@ export function FooterSection() {
         <FadeIn delay={0.4} y={20}>
           <div className="flex justify-center gap-8 mt-12">
             <a
-              href="https://github.com/Saboo24"
+              href="https://github.com/cyber-atharv"
               target="_blank"
               rel="noreferrer"
               className="

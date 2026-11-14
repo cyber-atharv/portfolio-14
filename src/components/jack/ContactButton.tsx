@@ -1,5 +1,5 @@
 export function ContactButton({
-  href = "mailto:aminehamzaoui1925@gmail.com",
+  href = "mailto:atharvhogade12@gmail.com",
 }: {
   href?: string;
 }) {
